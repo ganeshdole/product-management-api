@@ -10,6 +10,11 @@ This is a simple RESTful API for managing a list of products using Node.js, Expr
 ## Installation
 
 1. Clone the repository:
+
+   ```
+   git clone https://github.com/ganeshdole/product-management-api
+   ```
+
 2. Install dependencies:
    ```
    npm install
