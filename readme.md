@@ -5,7 +5,7 @@ This is a simple RESTful API for managing a list of products using Node.js, Expr
 ## Prerequisites
 
 - Node.js (v14 or later)
-- PostgreSQL (14)
+- PostgreSQL (v14)
 
 ## Installation
 
